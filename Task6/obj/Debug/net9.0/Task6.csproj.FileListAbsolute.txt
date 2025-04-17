@@ -1,0 +1,14 @@
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/bin/Debug/net9.0/Task6
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/bin/Debug/net9.0/Task6.deps.json
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/bin/Debug/net9.0/Task6.runtimeconfig.json
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/bin/Debug/net9.0/Task6.dll
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/bin/Debug/net9.0/Task6.pdb
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.AssemblyInfoInputs.cache
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.AssemblyInfo.cs
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.csproj.CoreCompileInputs.cache
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.dll
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/refint/Task6.dll
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.pdb
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
+/Users/macbookm2/Documents/3 курс/КПиЯП/practice/lab1/Task6/obj/Debug/net9.0/ref/Task6.dll
